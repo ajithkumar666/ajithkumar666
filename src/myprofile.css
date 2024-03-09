@@ -440,6 +440,11 @@ main .profile{
     color: #2eca7f;
 }
 
+.resume-line .date.normal{
+    color: #262626;
+}
+
+
 .resume-line .date.active::before{
     background: #2eca7f;
 }
